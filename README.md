@@ -23,6 +23,7 @@ Bộ phím tắt có thể được tuỳ biến tùy ý. Bạn chỉ cần sử
 [CustomSnippets]
 sc=SELECT COUNT(*) FROM
 ii=INSERT INTO
+...
 ```
 
 ## Cách Cập Nhật Phần Mềm
