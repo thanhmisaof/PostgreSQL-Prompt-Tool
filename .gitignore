@@ -1,0 +1,14 @@
+# Ignore configuration files (might contain passwords/local paths)
+config.ini
+snippets.ini
+
+# Ignore source code (only push compiled exe)
+*.ahk
+
+# Ignore executables if compiled except the main distribution
+*.exe
+!PgPromptApp.exe
+
+# Ignore temp files
+*.tmp
+*.bak
